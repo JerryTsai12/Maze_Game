@@ -1,1 +1,61 @@
-{"maze": {"symbol": {"wall": "\u2593\u2593", "background": "  ", "start": "<|", "end": "|>", "coin": " $", "mist": "\u2591\u2591"}, "size": {"easy": [10, 8], "normal": [20, 16], "hard": [30, 24], "hheelloo": [30, 24], "hheelloohheelloo": [40, 32]}}, "player": {"symbol": {"player": " *", "tp": " #"}, "control": {"up": ["w"], "left": ["a"], "down": ["s"], "right": ["d"]}}, "main": {"record": 0.0, "difficulty": {"easy": ["e", "easy"], "normal": ["n", "normal"], "hard": ["h", "hard"], "hheelloo": ["hheelloo"], "hheelloohheelloo": ["hheelloohheelloo"]}, "commend": {"quit": ["esc", "quit"], "reset": ["reset", "restart"], "set": ["set"], "tp": ["tp", "teleport"], "mist": ["mist", "show"], "auto": ["auto"], "bfs": ["bfs"], "dfs": ["dfs"], "answer": ["ans"]}}}
+{
+  "maze": 
+  {
+    "symbol": 
+    {
+      "wall": "\u2593\u2593", 
+      "background": "  ", 
+      "start": "<|", 
+      "end": "|>", 
+      "coin": " $", 
+      "mist": "\u2591\u2591"
+    }, 
+    "size": 
+    {
+      "easy": [10, 8], 
+      "normal": [20, 16], 
+      "hard": [30, 24], 
+      "hheelloo": [30, 24], 
+      "hheelloohheelloo": [40, 32]
+    }
+  }, 
+  "player": 
+  {
+    "symbol": 
+    {
+      "player": " *", 
+      "tp": " #"
+    }, 
+    "control": 
+    {
+      "up": ["w"], 
+      "left": ["a"], 
+      "down": ["s"], 
+      "right": ["d"]
+    }
+  }, 
+  "main": 
+  {
+    "record": 0.0, 
+    "difficulty": 
+    {
+      "easy": ["e", "easy"], 
+      "normal": ["n", "normal"], 
+      "hard": ["h", "hard"], 
+      "hheelloo": ["hheelloo"], 
+      "hheelloohheelloo": ["hheelloohheelloo"]
+    }, 
+    "commend": 
+    {
+      "quit": ["esc", "quit"], 
+      "reset": ["reset", "restart"], 
+      "set": ["set"], 
+      "tp": ["tp", "teleport"], 
+      "mist": ["mist", "show"], 
+      "auto": ["auto"], 
+      "bfs": ["bfs"], 
+      "dfs": ["dfs"], 
+      "answer": ["ans"]
+    }
+  }
+}
