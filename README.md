@@ -4,13 +4,13 @@
 ### 在此專案中，有四個 .py 檔案，一個 .json 檔案，其中
 
 * [`Maze_game_main.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Game_main.py)  為 **「主程式碼」**，下載後執行此程式碼以進入遊戲
-* `Maze_Class.py` 為 **「迷宮生成演算法」** 的程式碼
-* `Maze_Auto.py` 三種 **「迷宮尋路演算法」** 的程式碼，分別為  
+* [`Maze_Class.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Class.py) 為 **「迷宮生成演算法」** 的程式碼
+* [`Maze_Auto.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Auto.py) 三種 **「迷宮尋路演算法」** 的程式碼，分別為  
     * 標準答案（程式內函式名稱為 **standard_answer** ）
     * 深度優先搜尋法（程式內函式名稱為 **dfs** ）
     * 廣度優先搜尋法（程式內函式名稱為 **bfs** ）
-* `Maze_Page.py`  為 **「與玩家互動頁面」** 的程式碼（包含主畫面、設定等等頁面）
-* `Maze_Commend.json`  為存放 **「玩家自訂設定」** 的檔案  
+* [`Maze_Page.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Pages.py)  為 **「與玩家互動頁面」** 的程式碼（包含主畫面、設定等等頁面）
+* [`Maze_Commend.json`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Commend.json)  為存放 **「玩家自訂設定」** 的檔案  
 ### 遊戲說明
 #### （一）設定：
 1.  進入設定畫面後，可以選擇要刪除、增加的操作按鍵，每種增加的操作按鍵只能為一個字元，如：「ww」不能作為一種操作按鍵設定，但「w」可以。
@@ -18,8 +18,9 @@
 3.  若操控的按鍵刪除後沒有設定（即沒有設定操作按鍵），將會無法開始遊戲。
 
 #### （二）遊玩：
-1. 開始遊戲：
-在主畫面（menu）輸入要遊玩的難度，即可開始遊戲，難度指令列表如下。
+1. 開始遊戲：  
+將所有檔案放在同一資料夾後，執行[`Maze_game_main.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Game_main.py)檔案即可開始。  
+進入後在主畫面（menu）輸入要遊玩的難度，即可開始遊玩迷宮，難度指令列表如下。    
 
 |**難度** |**指令**|
 |:-----:|:--------:|
