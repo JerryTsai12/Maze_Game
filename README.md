@@ -3,7 +3,7 @@
 ## 此專案為 **「 選修課程–進階程式設計 」** 的 **「 課程學習成果 」**
 ### 在此專案中，有四個 .py 檔案，一個 .json 檔案，其中
 
-* [`Maze_game_main.py`](Maze_game_main)  為 **「主程式碼」**，下載後執行此程式碼以進入遊戲
+* [`Maze_game_main.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Game_main.py)  為 **「主程式碼」**，下載後執行此程式碼以進入遊戲
 * `Maze_Class.py` 為 **「迷宮生成演算法」** 的程式碼
 * `Maze_Auto.py` 三種 **「迷宮尋路演算法」** 的程式碼，分別為  
     * 標準答案（程式內函式名稱為 **standard_answer** ）
