@@ -10,7 +10,7 @@
     * 深度優先搜尋法（程式內函式名稱為 **dfs** ）
     * 廣度優先搜尋法（程式內函式名稱為 **bfs** ）
 * [`Maze_Page.py`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Pages.py)  為 **「與玩家互動頁面」** 的程式碼（包含主畫面、設定等等頁面）
-* [`Maze_Commend.json`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Commend.json)  為存放 **「玩家自訂設定」** 的檔案  
+* [`Maze_Commend.json`](https://github.com/JerryTsai12/Maze_Game/blob/main/Maze_Commend.json)  存放 **「玩家自訂設定」** 以及 **「地圖基本設定」** （如地圖大小、牆壁代表符號等）
 ### 遊戲說明
 #### （一）設定：
 1.  進入設定畫面後，可以選擇要刪除、增加的操作按鍵，每種增加的操作按鍵只能為一個字元，如：「ww」不能作為一種操作按鍵設定，但「w」可以。
