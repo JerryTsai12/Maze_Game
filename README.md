@@ -1,5 +1,5 @@
 # Maze_Game 迷宮遊戲
-## 作者：[阿瑋(aawilliamaa)](https://github.com/aawilliamaa)、[阿暐(JerryTsai12)](https://github.com/JerryTsai12)
+## 作者：新竹高中  [許宸瑋(aawilliamaa)](https://github.com/aawilliamaa)、[蔡朝暐(JerryTsai12)](https://github.com/JerryTsai12)
 ## 此專案為 **「 選修課程–進階程式設計 」** 的 **「 課程學習成果 」**
 ### 在此專案中，有四個 .py 檔案，一個 .json 檔案，其中
 
